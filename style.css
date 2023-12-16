@@ -1,0 +1,12 @@
+#box{
+    width: 1249px;
+    height: 376px;
+    background-color: #22F4DA;
+    margin-left: 86px;
+    margin-top: 73px;
+    border-radius: 30px;
+}
+
+#h1{
+    text-align: center;
+}
